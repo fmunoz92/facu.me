@@ -9,7 +9,7 @@ import Signup from '../components/Signup'
 import { formatReadingTime } from '../utils/helpers'
 import { rhythm, scale } from '../utils/typography'
 
-const GITHUB_USERNAME = 'fmunoz'
+const GITHUB_USERNAME = 'fmunoz92'
 const GITHUB_REPO_NAME = 'facu.me'
 
 class BlogPostTemplate extends React.Component {
@@ -22,7 +22,7 @@ class BlogPostTemplate extends React.Component {
       ''
     )}.md`
     const discussUrl = `https://mobile.twitter.com/search?q=${encodeURIComponent(
-      `https://facu.me${slug}`
+      `https://www.facu.me${slug}`
     )}`
     return (
       <Layout location={this.props.location} title={siteTitle}>
