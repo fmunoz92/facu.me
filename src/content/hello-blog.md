@@ -10,11 +10,11 @@ Looking back to my yearly resolutions I've planned to start a blog since 2014. I
 I'll write about code and travel. I'll try to share experiences of my daily life as a startup co-founder and digital nomad.
 
 The goal is to organize, research and discuss ideas. I'm not waiting for any direct return.
-I'm trying to get the well knew benefits from writing.
+I'm just trying to get the well knew benefits from writing.
 
 Don't expect to see beautiful writing and correct grammar. I'll not be sorry about that :P
 
-Please join the newsletter to get new updated.
+Please join the newsletter to get new updates.
 
 Thanks for reading me :)
 
