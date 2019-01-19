@@ -40,7 +40,8 @@ npm install standard --save-dev
 
 ```
 
-Add some basic configuration
+Add some basic configuration.
+
 We will ignore the build folder and declare some environment variables for Jest testing:
 ```json
 {
@@ -131,7 +132,7 @@ husky > pre-commit (node v11.3.0)
  2 files changed, 38 insertions(+), 1 deletion(-)
 ```
 
-If we declare a unused variable and try to commit we will see this:
+If we declare an unused variable and try to commit we will see this:
 
 ```bash
 $ git commit -am "test"                                                                                                    [18:53:49]
