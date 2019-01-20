@@ -45,6 +45,10 @@ function SEO({ meta, image, title, description, slug }) {
                 content: metaDescription,
               },
               {
+                name: 'google-site-verification',
+                content: 'QIZNN1x0NJjNyY5kehw4T6JppMgwoEFAHyvO9aA41RE',
+              },
+              {
                 property: 'og:url',
                 content: url,
               },
